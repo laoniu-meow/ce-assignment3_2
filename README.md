@@ -14,3 +14,7 @@
 - Install basic dependencies: npm install express && npm install --save-dev nodemon
 
 ### Step 2: Create a Simple Node.js Frontend Application
+
+### Step 3: Commit and push the initial code to the GitHub repository (main branch) to verify that the git push operation is working correctly
+
+### Step 4: Create Feature Branch and commit to the feature branch

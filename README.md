@@ -24,3 +24,11 @@
 - Expected GitH
   ![Alt text](/public/assignment3_2-1.png)
   ![Alt text](/public/assignment3_2-2.png)
+
+### Step 6: Fix the format error
+
+### Step 7: Fix the outdate issue
+
+### Result:
+
+![Alt text](/public/assignment3_2-3.png)

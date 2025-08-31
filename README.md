@@ -19,11 +19,10 @@
 
 ### Step 4: Create Feature Branch and commit to the feature branch
 
-### Step 5: Create the CI and CD yml file
+### Step 5: Set Branch Rules
 
-- Expected GitH
-  ![Alt text](/public/assignment3_2-1.png)
-  ![Alt text](/public/assignment3_2-2.png)
+![Alt text](/public/assignment3_2-1.png)
+![Alt text](/public/assignment3_2-2.png)
 
 ### Step 6: Fix the format error
 
@@ -32,3 +31,9 @@
 ### Result:
 
 ![Alt text](/public/assignment3_2-3.png)
+
+### Step 8: Create the CI and CD yml file
+
+- Expected GitH
+  ![Alt text](/public/assignment3_2-4.png)
+  ![Alt text](/public/assignment3_2-5.png)

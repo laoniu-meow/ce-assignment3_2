@@ -10,7 +10,11 @@ console.log('✅ Basic math tests passed');
 
 // Test 2: String Operations
 console.log('Testing string operations...');
-assert.strictEqual('Hello' + ' ' + 'World', 'Hello World', 'String concatenation should work');
+assert.strictEqual(
+  'Hello' + ' ' + 'World',
+  'Hello World',
+  'String concatenation should work'
+);
 assert.strictEqual('CI/CD'.length, 5, 'String length should be correct');
 console.log('✅ String operation tests passed');
 
@@ -42,4 +46,4 @@ console.log('✅ Application logic tests passed');
 console.log('\n🎉 All tests completed successfully!');
 console.log('Total tests: 8');
 console.log('✅ Passed: 8');
-console.log('❌ Failed: 0'); 
+console.log('❌ Failed: 0');

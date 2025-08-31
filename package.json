@@ -15,7 +15,11 @@
     "build": "echo 'Build completed' && exit 0",
     "deploy": "echo 'Deployment script placeholder' && exit 0"
   },
-  "keywords": ["nodejs", "cicd", "github-actions"],
+  "keywords": [
+    "nodejs",
+    "cicd",
+    "github-actions"
+  ],
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {

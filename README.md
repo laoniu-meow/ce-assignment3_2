@@ -18,3 +18,9 @@
 ### Step 3: Commit and push the initial code to the GitHub repository (main branch) to verify that the git push operation is working correctly
 
 ### Step 4: Create Feature Branch and commit to the feature branch
+
+### Step 5: Create the CI and CD yml file
+
+- Expected GitH
+  ![Alt text](/public/assignment3_2-1.png)
+  ![Alt text](/public/assignment3_2-2.png)
